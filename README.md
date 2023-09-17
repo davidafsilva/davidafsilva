@@ -2,7 +2,7 @@
 engineer {
   about {
     name = "David Silva"
-    country = "Portugal"
+    location = "Portugal"
     contact = "ZGF2aWRhZnNpbHZhLmhlYXZpbmcyMTZAOHNoaWVsZC5uZXQ"
     company = "@sky-uk"
   }
